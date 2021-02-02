@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on Khaled Allen</title>
+    <link>https://khaledallen.github.io/tags/architecture/</link>
+    <description>Recent content in architecture on Khaled Allen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://khaledallen.github.io/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Grace</title>
+      <link>https://khaledallen.github.io/archive/on-grace/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.github.io/archive/on-grace/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://khaledallen.files.wordpress.com/2010/02/dancer.jpg&#34;&gt;&lt;img class=&#34;size-medium wp-image-390 alignright&#34; title=&#34;dancer&#34; src=&#34;{{ site.baseurl }}/assets/dancer.jpg?w=300&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;199&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I used to do a lot of website design, not because I enjoy writing code, but because I like creative design. For me, there is a lot of pleasure to be had in discerning the best layouts for a page, the colors used to emphasize certain areas and ideas, the interplay of pictures and content in bringing your page to life. I was fairly well-versed in coding techniques as well, and was self-taught in HTML, CSS, and even a little JavaScript. I actually would get pretty involved in the technical side of things just to make a particular button or layout work the way I wanted it to in a clean, efficient manner. But set me down to write a piece of code with the express purpose of calculating and out putting some value and I’ll just fall asleep. For me, the allure is in the artistic possibility, the connection between the technical and the aesthetic. I find it fascinating how manipulating the very dry and cold elements of HTML and CSS code can produce a work of art. The process is very different than that of working with a brush, in which your actions translate directly to the art being produced. In web design, you are a step removed from your creation.</description>
+    </item>
+    
+  </channel>
+</rss>

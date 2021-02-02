@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sardines on Khaled Allen</title>
+    <link>https://khaledallen.github.io/tags/sardines/</link>
+    <description>Recent content in sardines on Khaled Allen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Feb 2010 00:00:00 +0000</lastBuildDate><atom:link href="https://khaledallen.github.io/tags/sardines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Paleo Journey</title>
+      <link>https://khaledallen.github.io/archive/my-paleo-journey/</link>
+      <pubDate>Fri, 26 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.github.io/archive/my-paleo-journey/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://khaledallen.files.wordpress.com/2010/02/paleo.jpg&#34;&gt;&lt;img class=&#34;alignright size-medium wp-image-414&#34; title=&#34;paleo&#34; src=&#34;{{ site.baseurl }}/assets/paleo.jpg?w=300&#34; alt=&#34;&#34; width=&#34;300&#34; height=&#34;199&#34; /&gt;&lt;/a&gt;My gym&#39;s 30 Day Paleo Challenge has come to an end, though I know many of us will continue to stick to the diet, having seen a lot of progress in the last month. A number of my fellow CrossFitters didn&#39;t make it all the way though. The same attitude that gets them through grueling workouts is now making them very frustrated with themselves and their perceived inability to stick to a simple diet plan. They can&#39;t understand why a slice of toast is more difficult to overcome than a 250lb barbell.</description>
+    </item>
+    
+  </channel>
+</rss>
