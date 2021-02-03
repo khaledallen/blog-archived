@@ -6,7 +6,19 @@
     <description>Recent content in Welcome to my website on Khaled Allen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://khaledallen.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 17:33:47 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes Tutorial</title>
+      <link>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</link>
+      <pubDate>Tue, 02 Feb 2021 17:33:47 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</guid>
+      <description>Using this tutorial to learn Kubernetes concepts: https://www.youtube.com/watch?v=X48VuDVv0do. minikube needs to run in a virtual environment, so we need to specify the vm-driver, hypberkit in our case.
+minikube start --vm-driver=hyperkit
+Once minikube is set up, it spins up a VM and then you can use kubectl to query it. Minikube is a node, running virtually in your own computer.
+Basic Commands Usage creat a pod: kubectl create .... We don&amp;rsquo;t notmally work with pods directly.</description>
+    </item>
+    
     <item>
       <title>How I Avoided Becoming the Flavor-of-the-Month Intern</title>
       <link>https://khaledallen.onrender.com/how-i-avoided-becoming-the-flavor-of-the-month-intern/</link>
@@ -6018,6 +6030,15 @@ Most athletes, especially endurance athletes, who are not trying to lose weight,
       
       <guid>https://khaledallen.onrender.com/archive/starting-down-the-path-of-the-warrior/</guid>
       <description>What is the Warrior Spirit?     First off, let me define what I mean by warrior in this context. The word itself is derived from War, organized violence, so a warrior might be someone who knows how to fight. At its simplest, this is true, but when you take into consideration the prerequisites of knowing how to fight, it soon becomes apparent that a warrior is much more than simply a soldier.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://khaledallen.onrender.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/about/</guid>
+      <description>Problem-solving Process  Spend some time with the problem &amp;ldquo;What would make this easy?&amp;rdquo; Make it like something familiar Make it concrete Test Look for shortcuts and refine  What worked? Why? Can it be combined with something else or consolidated? What didn&amp;rsquo;t work? Why? Do I need that? Can we bypass the problem entirely? What should be changed to improve? Is that feasible? Repeat with a smaller version of the big cycle.</description>
     </item>
     
   </channel>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daybooks on Khaled Allen</title>
+    <link>https://khaledallen.onrender.com/daybook/</link>
+    <description>Recent content in Daybooks on Khaled Allen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 17:33:47 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/daybook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes Tutorial</title>
+      <link>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</link>
+      <pubDate>Tue, 02 Feb 2021 17:33:47 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</guid>
+      <description>Using this tutorial to learn Kubernetes concepts: https://www.youtube.com/watch?v=X48VuDVv0do. minikube needs to run in a virtual environment, so we need to specify the vm-driver, hypberkit in our case.
+minikube start --vm-driver=hyperkit
+Once minikube is set up, it spins up a VM and then you can use kubectl to query it. Minikube is a node, running virtually in your own computer.
+Basic Commands Usage creat a pod: kubectl create .... We don&amp;rsquo;t notmally work with pods directly.</description>
+    </item>
+    
+  </channel>
+</rss>

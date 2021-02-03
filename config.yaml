@@ -24,22 +24,26 @@ menu:
     pre: edit
     url: /post/
     weight: 2
+  - name: Projects
+    pre: box
+    url: /project/
+    weight: 3
   - name: Archive
     pre: archive
     url: /archive/
-    weight: 3
-  - name: Tags
-    pre: tag
-    url: /tags/
     weight: 4
+  - name: Daybook
+    pre: book
+    url: /daybook/
+    weight: 5
   - name: About
     pre: smile
     url: /about/
-    weight: 5
+    weight: 6
   - name: RSS
     pre: rss
     url: /index.xml
-    weight: 6
+    weight: 7
 
 params:
   includeBootstrapJs: false

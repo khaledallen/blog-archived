@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://khaledallen.onrender.com/daybook/</loc>
+    <lastmod>2021-02-02T17:33:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</loc>
+    <lastmod>2021-02-02T17:33:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khaledallen.onrender.com/</loc>
+    <lastmod>2021-02-02T17:33:47-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://khaledallen.onrender.com/how-i-avoided-becoming-the-flavor-of-the-month-intern/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://khaledallen.onrender.com/post/</loc>
-    <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://khaledallen.onrender.com/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -6715,6 +6725,11 @@
   <url>
     <loc>https://khaledallen.onrender.com/archive/starting-down-the-path-of-the-warrior/</loc>
     <lastmod>2009-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khaledallen.onrender.com/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
