@@ -1,7 +1,7 @@
 ---
 title: "Problem Solving Process"
 date: 2021-02-03T10:36:29-07:00
-draft: true
+draft: false
 ---
 
 I've been preparing for a coding interview recently, and as a result
