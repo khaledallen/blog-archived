@@ -7,8 +7,9 @@ I'm Khaled (pronounced خالد). I like to solve hard problems, whether program
 ## What's here
 
 - Blog: New writings and ideas
-- Archive: Old writings and ideas
 - Projects: Ongoing stuff I'm working on and iterating on
+- Archive: Old writings and ideas
+- Daybook: Scratch notes that aren't yet associated with a project
 
 {{< bootstrap-blockquote author="Dick Guindon" >}}
 Writing is nature's way of letting you know how sloppy your thinking is.
