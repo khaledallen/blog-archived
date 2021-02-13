@@ -6,7 +6,17 @@
     <description>Recent content in Welcome to my website on Khaled Allen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2021 11:55:29 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 12:08:55 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi Case</title>
+      <link>https://khaledallen.onrender.com/project/raspberry-pi-case/</link>
+      <pubDate>Fri, 12 Feb 2021 12:08:55 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/raspberry-pi-case/</guid>
+      <description>This is a case for my Raspberry Pi, which I use to stream games from my CLX gaming PC to various locations in the house using Parsec. You can see more about that project here (link coming soon).
+There have been several iterations of this case. The first iteration, I had trouble with the sizing and spacing of the USB ports in the RPi model I used in Fusion360. As a result, the actual Pi did not fit in the case when printed.</description>
+    </item>
+    
     <item>
       <title>Drink Table</title>
       <link>https://khaledallen.onrender.com/project/drink-table/</link>
@@ -6057,7 +6067,16 @@ Most athletes, especially endurance athletes, who are not trying to lose weight,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khaledallen.onrender.com/about/</guid>
-      <description>Problem-solving Process  Spend some time with the problem &amp;ldquo;What would make this easy?&amp;rdquo; Make it like something familiar Make it concrete Test Look for shortcuts and refine  What worked? Why? Can it be combined with something else or consolidated? What didn&amp;rsquo;t work? Why? Do I need that? Can we bypass the problem entirely? What should be changed to improve? Is that feasible? Repeat with a smaller version of the big cycle.</description>
+      <description>Reading List   Book Author Completed Rating Summary     The Art of Doing Science and Engineering Richard Hamming Dec 2020 4.5    Ready Player Two Ernest Cline Dec 2020 4.0    Circe Madeline Miller Feb 2021 4.0    Axiom&amp;rsquo;s End Lindsey Ellis Feb 2021 4.8    Why We Sleep Matthew Walker, PhD - -     Problem-solving Process  Spend some time with the problem &amp;ldquo;What would make this easy?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://khaledallen.onrender.com/code-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/code-portfolio/</guid>
+      <description>Personal Projects  IoT: Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. Gaming: Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. Software: Custom-built documentation/wiki for Abstract Algebra. Software: Voice-controlled NLP personal assistant with custom-built command-line todo list. Software: Online LaTeX scratchpad used by CU and FRCC students for quick math typesetting (https://latexnotes.surge.sh).  Undergraduate Research Projects  Software: EVA suit simulated telemetry-feed for NASA SUITS competition team.</description>
     </item>
     
   </channel>

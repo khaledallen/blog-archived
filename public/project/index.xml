@@ -6,7 +6,17 @@
     <description>Recent content in Projects on Khaled Allen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Feb 2021 11:55:29 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 12:08:55 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi Case</title>
+      <link>https://khaledallen.onrender.com/project/raspberry-pi-case/</link>
+      <pubDate>Fri, 12 Feb 2021 12:08:55 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/raspberry-pi-case/</guid>
+      <description>This is a case for my Raspberry Pi, which I use to stream games from my CLX gaming PC to various locations in the house using Parsec. You can see more about that project here (link coming soon).
+There have been several iterations of this case. The first iteration, I had trouble with the sizing and spacing of the USB ports in the RPi model I used in Fusion360. As a result, the actual Pi did not fit in the case when printed.</description>
+    </item>
+    
     <item>
       <title>Drink Table</title>
       <link>https://khaledallen.onrender.com/project/drink-table/</link>

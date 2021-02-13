@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://khaledallen.onrender.com/css/bootstrap.min.css">
   
   
-  <title> | Khaled Allen</title>
+  <title>Raspberry Pi Case | Khaled Allen</title>
   <style>
 .container {
   max-width: 700px;
@@ -182,105 +182,19 @@ audio {
       <main id="main">
         
 
-<h1></h1>
-<h1 id="reading-list">Reading List</h1>
+<h1>Raspberry Pi Case</h1>
+<p>This is a case for my Raspberry Pi, which I use to stream games from my CLX gaming PC to various locations in the house using Parsec. You can see more about that project <a href="#">here</a> (link coming soon).</p>
+<p>There have been several iterations of this case. The first iteration, I had trouble with the sizing and spacing of the USB ports in the RPi model I used in Fusion360. As a result, the actual Pi did not fit in the case when printed. I also didn&rsquo;t realize that I needed to slice the case in half as there isn&rsquo;t enough space for the ports to slide in otherwise. This resulted in several broken attempts.</p>
+<p>Once I figured out the spacing and the insertion method, I needed to sort out a way to secure the top to the bottom. The simplest solution I came up with was just to design some screw posts into the outside of the case, but the Pi 3B+ has various ports in locations that make it impossible to get a nice symmetric arrangement for this solution. Internal clips were definitely the ideal, but those were beyond my Fusion360 skills.</p>
+<p>Once I had a basically working design, I started over with a much better build process in Fusion360, keeping my components and bodies cleanly organized. I got a working version with external screw posts, and then dove into figuring out a way to do internal clips, which is the latest prototype (printing as I write this).</p>
+<figure>
+    <img src="/images/raspberry-pi-case-v2.jpg"
+         alt="The version made with a better Fusion360 workflow actually fits. Note the ugly screw posts."/> <figcaption>
+            <p>The version made with a better Fusion360 workflow actually fits. Note the ugly screw posts.</p>
+        </figcaption>
+</figure>
 
-
-
-
-
-<table class="table table-striped table-bordered">
-<thead>
-<tr>
-<th>Book</th>
-<th>Author</th>
-<th>Completed</th>
-<th>Rating</th>
-<th>Summary</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>The Art of Doing Science and Engineering</td>
-<td>Richard Hamming</td>
-<td>Dec 2020</td>
-<td>4.5</td>
-<td></td>
-</tr>
-<tr>
-<td>Ready Player Two</td>
-<td>Ernest Cline</td>
-<td>Dec 2020</td>
-<td>4.0</td>
-<td></td>
-</tr>
-<tr>
-<td>Circe</td>
-<td>Madeline Miller</td>
-<td>Feb 2021</td>
-<td>4.0</td>
-<td></td>
-</tr>
-<tr>
-<td>Axiom&rsquo;s End</td>
-<td>Lindsey Ellis</td>
-<td>Feb 2021</td>
-<td>4.8</td>
-<td></td>
-</tr>
-<tr>
-<td>Why We Sleep</td>
-<td>Matthew Walker, PhD</td>
-<td>-</td>
-<td>-</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<h1 id="problem-solving-process">Problem-solving Process</h1>
-<ol>
-<li>Spend some time with the problem</li>
-<li>&ldquo;What would make this easy?&rdquo;</li>
-<li>Make it like something familiar</li>
-<li>Make it concrete</li>
-<li>Test</li>
-<li>Look for shortcuts and refine
-<ol>
-<li>What worked? Why? Can it be combined with something else or consolidated?</li>
-<li>What didn&rsquo;t work? Why? Do I need that? Can we bypass the problem entirely?</li>
-<li>What should be changed to improve? Is that feasible?</li>
-<li>Repeat with a smaller version of the big cycle.</li>
-</ol>
-</li>
-</ol>
-<h2 id="example-coding-problems">Example: Coding Problems</h2>
-<ol>
-<li>Understand Requirements (Understand the problem)</li>
-<li>Specify Input/Output (understand the problem)</li>
-<li>Question assumptions (understand and what would make this easy)</li>
-<li>Think and explore solutions (applying what woudl make this easy and is this
-like something I&rsquo;ve seen before)</li>
-<li>Describe an implementation (make it concrete)</li>
-<li>Walk through the implementation with sample input (test)</li>
-<li>Implement in code (make it concrete, test and refine)</li>
-</ol>
-<p>Steps 3-6 get cycled, occasionally revisiting 1 and 2.</p>
-<h2 id="example-engineering-problem">Example: Engineering Problem</h2>
-<p>My process for designing a widget to solve a problem with my 3D printer is</p>
-<ol>
-<li>Specify the requirements. That is, what do I need this widget to do
-(Understand the problem)</li>
-<li>Scope the problem. What <em>don&rsquo;t I need it do</em>? (Understand)</li>
-<li>See what&rsquo;s been done before (Understand and what woudl make this easy, is
-this like something familiar)</li>
-<li>Sketch a solution (Understand the problem and what would make this easy,
-make it concrete)</li>
-<li>Design a print (make it concrete)</li>
-<li>Print and apply (make it concrete, test and refine)</li>
-<li>Repeat 3-5 (test and refine, unless things are really not working, then go
-back to 1)</li>
-</ol>
+<p>Once the PLA prototype is checked, I will print in semi-transparent PETG, which will be more heat resistent, allow me to see the LEDs on the Pi, and which is a stronger material for lasting durability.</p>
 
 
 

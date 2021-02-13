@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://khaledallen.onrender.com/project/drink-table/</loc>
-    <lastmod>2021-02-04T11:55:29-07:00</lastmod>
+    <loc>https://khaledallen.onrender.com/project/</loc>
+    <lastmod>2021-02-12T12:08:55-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://khaledallen.onrender.com/project/</loc>
-    <lastmod>2021-02-04T11:55:29-07:00</lastmod>
+    <loc>https://khaledallen.onrender.com/project/raspberry-pi-case/</loc>
+    <lastmod>2021-02-12T12:08:55-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://khaledallen.onrender.com/</loc>
+    <lastmod>2021-02-12T12:08:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://khaledallen.onrender.com/project/drink-table/</loc>
     <lastmod>2021-02-04T11:55:29-07:00</lastmod>
   </url>
   
@@ -6744,6 +6749,11 @@
   
   <url>
     <loc>https://khaledallen.onrender.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://khaledallen.onrender.com/code-portfolio/</loc>
     <priority>0</priority>
   </url>
   
