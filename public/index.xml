@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Feb 2021 12:08:55 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Raspberry Pi Case</title>
-      <link>https://khaledallen.onrender.com/project/raspberry-pi-case/</link>
+      <title>Raspberry Pi Parsec Gaming Client</title>
+      <link>https://khaledallen.onrender.com/project/raspberry-pi-parsec/</link>
       <pubDate>Fri, 12 Feb 2021 12:08:55 -0700</pubDate>
       
-      <guid>https://khaledallen.onrender.com/project/raspberry-pi-case/</guid>
-      <description>This is a case for my Raspberry Pi, which I use to stream games from my CLX gaming PC to various locations in the house using Parsec. You can see more about that project here (link coming soon).
-There have been several iterations of this case. The first iteration, I had trouble with the sizing and spacing of the USB ports in the RPi model I used in Fusion360. As a result, the actual Pi did not fit in the case when printed.</description>
+      <guid>https://khaledallen.onrender.com/project/raspberry-pi-parsec/</guid>
+      <description>This is a project to use a Raspberry Pi to stream games from my CLX gaming PC to various locations in the house using Parsec.
+Software Getting the Raspberry Pi to act as a streaming solution wasn&amp;rsquo;t as simple as the instructions from Parsec indicated. The biggest issues we faced (I did this with my friend Sam Cipriani) were latency from attempting to stream a graphics intensive application into the Pi, and then output that onto a big, high resolution TV screen.</description>
     </item>
     
     <item>
@@ -6076,7 +6076,7 @@ Most athletes, especially endurance athletes, who are not trying to lose weight,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khaledallen.onrender.com/code-portfolio/</guid>
-      <description>Personal Projects  IoT: Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. Gaming: Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. Software: Custom-built documentation/wiki for Abstract Algebra. Software: Voice-controlled NLP personal assistant with custom-built command-line todo list. Software: Online LaTeX scratchpad used by CU and FRCC students for quick math typesetting (https://latexnotes.surge.sh).  Undergraduate Research Projects  Software: EVA suit simulated telemetry-feed for NASA SUITS competition team.</description>
+      <description>Personal Projects  IoT: Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. Github. Gaming: Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. Project page. Software: Custom-built documentation/wiki for Abstract Algebra. Github. Software: Voice-controlled NLP personal assistant with custom-built command-line todo list. Github. Software: Online LaTeX scratchpad used by CU and FRCC students for quick math typesetting App, Github.  Undergraduate Research Projects  Software: EVA suit simulated telemetry-feed for NASA SUITS competition team.</description>
     </item>
     
   </channel>
