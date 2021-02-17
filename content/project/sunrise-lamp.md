@@ -5,6 +5,7 @@ draft: false
 ---
 
 [Project Notebook](https://www.notion.so/misjifmaker/Sunrise-Lamp-8e684bea1ca04073b2b56d4762c15349)
+[Github includes STL](https://www.github.com/khaledallen/sunrise)
 
 ## Goal
 
