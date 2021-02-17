@@ -1,6 +1,6 @@
 # Personal Projects
 
-* **IoT:** Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. [Github](https://github.com/khaledallen/sunrise).
+* **IoT:** Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. [Project Page](/project/sunrise-lamp), [Github](https://github.com/khaledallen/sunrise).
 * **Gaming:** Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. [Project page](/project/raspberry-pi-parsec).
 * **Software:** Custom-built documentation/wiki for Abstract Algebra. [Github](https://github.com/khaledallen/mathdocs).
 * **Software:** Voice-controlled NLP personal assistant with custom-built command-line todo list. [Github](https://github.com/khaledallen/todo).

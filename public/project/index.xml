@@ -6,7 +6,18 @@
     <description>Recent content in Projects on Khaled Allen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 12:08:55 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 21:44:04 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sunrise Lamp</title>
+      <link>https://khaledallen.onrender.com/project/sunrise-lamp/</link>
+      <pubDate>Tue, 16 Feb 2021 21:44:04 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/sunrise-lamp/</guid>
+      <description>Project Notebook
+Goal The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.
+It also combined elements of coding, 3D printing/mechanical design, and electrical, since I had to write the code, wire all the bits, and then design and print an enclosure for the device.</description>
+    </item>
+    
     <item>
       <title>Raspberry Pi Parsec Gaming Client</title>
       <link>https://khaledallen.onrender.com/project/raspberry-pi-parsec/</link>

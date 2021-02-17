@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="https://khaledallen.onrender.com/css/bootstrap.min.css">
   
   
-  <title>Projects | Khaled Allen</title>
+  <title>Sunrise Lamp | Khaled Allen</title>
   <style>
 .container {
   max-width: 700px;
@@ -117,13 +117,11 @@ audio {
       
       
       
-       
-        
         
       
     
     
-    <a class="nav-link nav-link-active" href="/project/"><i data-feather="box"></i> Projects</a>
+    <a class="nav-link " href="/project/"><i data-feather="box"></i> Projects</a>
   
     
     
@@ -184,35 +182,24 @@ audio {
       <main id="main">
         
 
-<h1>Projects</h1>
-
-
-<p>
-  <a class="font-125" href="https://khaledallen.onrender.com/project/sunrise-lamp/">Sunrise Lamp</a>
-  <br>
-  
-
-<i data-feather="calendar"></i> <time datetime="2021-02-16">Feb 16, 2021</time>
-
-</p>
-
-<p>
-  <a class="font-125" href="https://khaledallen.onrender.com/project/raspberry-pi-parsec/">Raspberry Pi Parsec Gaming Client</a>
-  <br>
-  
-
-<i data-feather="calendar"></i> <time datetime="2021-02-12">Feb 12, 2021</time>
-
-</p>
-
-<p>
-  <a class="font-125" href="https://khaledallen.onrender.com/project/drink-table/">Drink Table</a>
-  <br>
-  
-
-<i data-feather="calendar"></i> <time datetime="2021-02-04">Feb 4, 2021</time>
-
-</p>
+<h1>Sunrise Lamp</h1>
+<p><a href="https://www.notion.so/misjifmaker/Sunrise-Lamp-8e684bea1ca04073b2b56d4762c15349">Project Notebook</a></p>
+<h2 id="goal">Goal</h2>
+<p>The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</p>
+<p>It also combined elements of coding, 3D printing/mechanical design, and electrical, since I had to write the code, wire all the bits, and then design and print an enclosure for the device.</p>
+<h2 id="results">Results</h2>
+<p>So far everything seems good. I have demonstrated that the Neopixel can simulate the gradual increase in brightness along with a reaonsable approximation of the hues of a sunrise, and I have been able to get and set the time on the clock, as well as download the time for the following day&rsquo;s sunrise.</p>
+<ul>
+<li><input disabled="" type="checkbox"> Make sure that we can trigger the sunrise with the clock settings</li>
+<li><input disabled="" type="checkbox"> Connect all the wires and install the Neopixel in its bulb</li>
+</ul>
+<h2 id="lessons-learned">Lessons Learned</h2>
+<ul>
+<li>There is a reason that Phillips charges $200 for their sunrise lamps.</li>
+<li>Just because I prototyped in PLA doesn&rsquo;t mean that the PETG will print well, or at all.</li>
+<li>C++ is finicky about strings, but I think we knew that.</li>
+<li>I have learned a lot about handling data type conversions in C++, and digging into the libraries I&rsquo;m using to leverage their provided methods and classes rather than just relying on the API.</li>
+</ul>
 
 
 
