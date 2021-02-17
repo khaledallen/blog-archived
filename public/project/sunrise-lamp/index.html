@@ -184,23 +184,26 @@ audio {
 
 <h1>Sunrise Lamp</h1>
 <p><a href="https://www.notion.so/misjifmaker/Sunrise-Lamp-8e684bea1ca04073b2b56d4762c15349">Project Notebook</a>
-<a href="https://www.github.com/khaledallen/sunrise">Github includes STL</a></p>
+<a href="https://www.github.com/khaledallen/sunrise">Github, includes STL</a></p>
+<h2 id="final-demo">Final Demo</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pjb0wGINeB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h2 id="goal">Goal</h2>
 <p>The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</p>
 <p>It also combined elements of coding, 3D printing/mechanical design, and electrical, since I had to write the code, wire all the bits, and then design and print an enclosure for the device.</p>
 <h2 id="results">Results</h2>
 <p>So far everything seems good. I have demonstrated that the Neopixel can simulate the gradual increase in brightness along with a reaonsable approximation of the hues of a sunrise, and I have been able to get and set the time on the clock, as well as download the time for the following day&rsquo;s sunrise.</p>
-<ul>
-<li><input disabled="" type="checkbox"> Make sure that we can trigger the sunrise with the clock settings</li>
-<li><input disabled="" type="checkbox"> Connect all the wires and install the Neopixel in its bulb</li>
-</ul>
+<p>With everything connected, the lamp turns on at the appropriate time and runs through the sequence as expected. You can set how long you want the sequence to take, and it will automatically adjust the length of each phase. You can also add more steps and colors, and set the max brightness, which is scaled down for the start of the sunrise.</p>
+<p>Overall, I&rsquo;m really happy with the entire setup. It is easy to use and much cleaner than previous IoT projects.</p>
 <h2 id="lessons-learned">Lessons Learned</h2>
 <ul>
 <li>There is a reason that Phillips charges $200 for their sunrise lamps.</li>
 <li>Just because I prototyped in PLA doesn&rsquo;t mean that the PETG will print well, or at all.</li>
 <li>C++ is finicky about strings, but I think we knew that.</li>
 <li>I have learned a lot about handling data type conversions in C++, and digging into the libraries I&rsquo;m using to leverage their provided methods and classes rather than just relying on the API.</li>
+<li>Always use solid core wires if breadboards are involved.</li>
 </ul>
+<h2 id="review">Review</h2>
+<p>I got it working to the extent that I wanted. Right now, it&rsquo;s still hooked up to a breadboard because my MKR1000 is the model with embedded headers, which I can&rsquo;t remove. So at some point, I will need to think about getting a headless board so I can build an enclosure for the clock and the board and get everything into a small package. But at the moment, the proof of concept is complete and I accomplished what I set out to do, which was build a project that incorporated 3D printing into an IoT project.</p>
 
 
 
