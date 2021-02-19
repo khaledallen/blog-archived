@@ -6,7 +6,17 @@
     <description>Recent content in Projects on Khaled Allen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Feb 2021 21:44:04 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 15:42:54 -0700</lastBuildDate><atom:link href="https://khaledallen.onrender.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathdocs</title>
+      <link>https://khaledallen.onrender.com/project/mathdocs/</link>
+      <pubDate>Thu, 18 Feb 2021 15:42:54 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/mathdocs/</guid>
+      <description>Goals The goal of this project was:
+ To build a tool for myself to support my educational objectives that I could use regularly To test out an idea I had about mathematics knowledge being structured like code, with inheritance and relationships, rather than a linear process of building towards a big proof or result To gain familiarity with Django (this was my first time working with Django) To expose myself to a CSS framework other than Bootstrap  Overview This project is a Django app that allows me to document mathematics knowledge in a way similar to how I document code.</description>
+    </item>
+    
     <item>
       <title>Sunrise Lamp</title>
       <link>https://khaledallen.onrender.com/project/sunrise-lamp/</link>
