@@ -1,70 +1,107 @@
 --- 
 title: "Feedback and Difficulty in Video Games"
 date: 2021-02-06T10:46:49-07:00
-draft: true
+draft: false
 ---
 
-One of my favorite things about well-designed video games is that I always know what I need to do to get better at them. They provide clear and consistent feedback, and you can generally test out different approaches really quickly. Good games also pace your progress, or give a clear indication that you just need to keep trying.
+I recently finished playing through Halo 2's legendary co-op campaign, which, for those who are not masochistic gamers, is considered one of the most poorly balanced, excessively difficult games ever made. If you haven't played, imagine being a delicate butterfly, made of crystal, trying to survive in a rock tumbler. With another butterfly. Who is tied to your wings, so when one of you dies, you both do. And the rocks are actually trying to hit you.
 
-For example, a friend and I are playing through Halo 2's Legendary Co-op campaign. It has been one of the most difficult and frustrating experiences I've ever had, and not just in gaming. The power discrepancy between our characters and the enemy is humorously vast. If one of us dies, we have to restart from the last checkpoint, and the checkpoints are
-not well distributed.
+That is Halo 2's legendary co-op campaign.
 
-However, the game goes provide really good feedback–enemies consistently take full advantage of even the tiniest mistakes–and a very fast feedback cycle: when one of us dies, it only takes a few seconds to restart. So we learn very quickly what works and what doesn't. It is also clear we aren't missing anything: our characters start with all the gear and strength they will ever have throughout the game, so the game makes it very obvious that any progression in your character's abilities will come from the player's skills. Thus, we don't waste time looking for power-ups.
+The sheer willpower it took to play through this game is sort of astounding. We'd replay the same section dozens of times. Sometimes, we'd replay so many times, the game would punish us for being terrible and would send us back in the level, erasing progress. It could take literally hours to clear a room.
 
-Progress is simply controlled by a linear map. You can't move into the next room until you clear the current one. If a door is unlocked, it suggests that you just need to get to the door without clearing the room.
+So, why did we do it?
 
-This does not make the game easy. We die a lot. It took us 3 hours last night to get through a single room. The game is also widely known to be broken on this difficulty setting. But we are willing to persist because we get feedback on each attempt and we know we have everything we need to move forward, if only we can execute perfectly and maybe get lucky.
+# Just because something is difficult doesn't deter people from mastering it.
 
-In constrast, Hollow Knight has a different setup. It is also
-punishingly difficult, but your pause screen clearly indicates empty spaces for powers and upgrades you have yet to find. The most difficult areas and bosses are closed to you until you have the abilities you need to beat them. In some cases, you're welcome to try a harder section or boss before you have all the power-ups, but there are no penalties for failing in these cases (not even losing a life). Bosses all have a pattern, and if you can learn it, you can overcome them. Similar to chess, if you lose, you can see exactly where you messed up. But you can keep trying and save points are generally pretty close to bosses, especially the harder ones.
+Halo 2 (and the Halo series in general) is exceptionally well-designed from a gameplay perspective–ignoring the balance issues regarding difficulty. The enemies are tough, take advantage of your mistakes, try to flank you, use cover effectively, and even sacrifice themselves to hurt you if they know they are about to die anyway. You start with all the abilities you will ever have, so your progress is entirely dependent on your skill as a player.
 
-Progress in these games on the harder settings are entirely based on your willingness to keep trying. If you don't want to die a lot, don't play. But if you're willing to try, you can improve and succeed.
+At the same time, there is rarely just one correct way to accomplish a goal. Sometimes, a straight up firefight is the best option. Sometimes, sneaking around to the high ground is better. Sometimes, you just run and pray. One of our favorite strategies involved using weapons outside of their normal range by having one teammate spot and report where the other's shots were landing.
 
-## Now, compare this to traditional education. 
+Thus, the game encourages you to experiment and iterate. We might enter a room and try something that failed miserably. So we'd alter the strategy a little bit and get better results. Then we'd perfect the execution and get even better results, but still find that we had very little margin for error. A small adjustment in our timing might give us a bigger margin. And so it goes. Eventually, we'd have a perfectly timed and executed tactic involving jumping gaps, punching specific enemies at exact moments, swapping weapons in the split second it took them to respond, stealing a headshot on a hidden sniper, and then ducking for cover. All this had to be done in perfect sync. It was very much like Tom Cruise's character in _Edge of Tomorrow_.
 
-The feedback loops are slow: in high school, it can take several days or longer to get feedback on homework, and tests are generally pretty infrequent. In college, the delay can be even longer, and you generally don't get tests more than 3 times a semester, if not a single final at the end.
+You are rewarded for exploring, iterating, and improving. You are punished for not taking cover, being sloppy, and failing to communicate.
 
-The consequences for failure are steep and permanent. Poor grades rob you of opportunities in the future, label you as inadequate, and the knowledge gaps you accrue make it harder to progress. Despite that, you are often allowed to progress, telling you that the gaps are not important or don't even exist.
+**It doesn't matter that the game is brutally hard. You know why you succeeded, and you know why you failed, and it is within your control**.
 
-Trying a lot will still generally guarantee success, but trying is costly. If you fail high school, there's stigma to overcome. College is expensive and very, very time-consuming. A second, or third, run is not trivial. You have deal with bureaucracy, submit applications (which themselves often bar you based on your previous failures), and spend lots of money.
+That's not to say we didn't have moments where we threw down our controllers in sheer frustration at the difficulty. But we knew we'd get through things. We knew we _could_ get through things, if only we were willing to stay focused.
 
-Imagine if a game worked that way. Dying in the game would  make it  more and more difficult as you progressed, until it literally kicked you out. It would have explicit indications that you were a poor player, maybe even telling you to stop playing. It would let you progress far into the hardest levels with no indication that you were supposed to have completed some previous elements, then smack you with the hardest boss, which would be presented as if you were ready for it but which would kill you instantly. Most enemies would just be bosses and they would be relatively infrequent. There would be no indication that you had gaps in your powers or items. The message the game would send is that it didn't really want you to win. If you weren't already good at it, you shouldn't be playing it. It was trying to get you to stop playing, punishing you for trying.
+And the challenge was its own reward.
 
-It would be horrible. Nobody would play such a game. 
+# Good pedagogy
 
-Obviously, this is a bit of a worst-case example. There are schools that provide lots of support and encouragement, with well-structure pedagogy. But even those implement systems that allow students to move forward despite having failed to master previous material. The grading system itself is a problem.
+Halo 2 is "just a game," but the fact that something so brutally hard and frustrating can be compelling led me to ask, "why is 'education' less compelling?"
 
-I don't have a problem with grades per se. But there should be a distinction between grades as cost-free feedback and grades as assessment. It is important to know where you stand as a learner, and tests, quizzes, and projects are the best way to get that information. But why make it so costly to fail? To disincentivize it? The threat of failure is not a great motivator compared to the promise of success. Especially when you are playing a new game.
+This led me to ask when education *was* compelling: when have I taken a class that I loved and really connected with? There haven't been many:
 
-Consider Khan Academy. Feedback is instant: you know immediately when you get a problem right or wrong, and you are tested constantly, because every learning module is basically a mini-quiz. There are clear indications of gaps that need to be filled. Help is literally a click away, as every mini-quiz has a link to the corresponding teaching video. Khan Academy eliminates the process of "figuring out the game," so you can focus on the actual material being presented.
+1. Calculus III
+2. Discrete Mathematics
+3. Introduction to Number Theory
+4. Euclidean and Non-euclidean Geometry
+5. Probability
+6. Computer Architecture and Assembly Language
 
-Unless they enjoyed the process of figuring out the game itself.
+There are specific reasons these were compelling.
 
-## Adjusting course
+## Calculus III
+A professor committed to pedagogy. Feedback was quick because quizzes were given almost every class. There were group projects that took us out of our comfort zone, and we were allowed to approach them in whatever way we wanted.
 
-This wasn't the first time we'd used this strategy. The previous three times we had gotten really far, but run out of ammo. We realized it was a mistake to use our best guns at the start, because they enemies were crowded enough that we could afford less accurate weapons. That mistake cost us in the end, so we adjusted and incorporated it into our best-so-far approach.
+## Discrete Mathematics
+Again, a great professor who focused on our learning, not just conveying the material. Quick feedback via weekly quizzes. HW that was not overwhelming busy-work, but gave us time to think. I could self-assess to some extent because I understood enough of the subject matter to know what made sense and what didn't.
 
-When I was a little kid, I used to get frustrated at video games if they were hard. I got upset that the game seemed unfair, and I didn't think to adjust my approach to beat them. In reality, I was actually getting better, which meant adjusting my approach, but I was too young to realize it.
+## Introduction to Number Theory
+Another professor who was passionate (wrote about) teaching and didn't just teach the subject, but also how to learn the subject. Regular and fast feedback with numerous small exams (4 instead of the usual 2) and active office hours. Moderate HW. Project with lots of flexibility.
 
-Now, I make the adjustments consicously. Every time we die in Halo, we learn something, and we adjust. This is true in the other unforgiving games I like to play, such as Hollow Knight.
+## Euclidean and Non-euclidean Geometry
+Another professor passionate about teaching. The entire class was projects and it was a little too new-age for my tastes, but what I really loved about this class was that you could re-do any of the assignments as many times as you wanted until you got the grade you wanted. So I didn't panic on HW. If I didn't understand something, I did my best, turned it in, then revisited it over and over and over until I did understand it. I spent a lot of time with stuff I struggled with, and less time with stuff I didn't. Magic.
 
-Many students who succeed at school spend a lot of time figuring out the game being played by the educational system. What makes a good school versus a poor one, in my opinion, has a lot to do with how it presents the game being played. A good school provides lots of good feedback, helps students fill in gaps, is clear about what is required, and is consistent. I went to a great school which implemented excellent pedagogy (i.e., the school game). Teachers graded and returned homework quickly and they had office hours. They told you when you needed to come in to office hours to get extra help, and prereqs were clear and explicit.
+## Probability
+Maybe not so passionate about teaching per se, but the professor recognized that probability is hard and met us halfway. Frequent quizzes. Accessible office hours.
 
-But if a school isn't going to provide that information, the students have to figure it out. And that's where I think colleges and universities often fail. Kids show up to university having succeeded (or not) in high school, which may have better or worse pedagogy. They are told that university will be harder, but often not exactly how it will be harder. College is much more like real life, in that you aren't provided with rules and feedback is opaque and inconsistent. Students just think the material is harder and the professors are more demanding. But the reality is, I think, very different.
+## Computer Architecture and Assembly Language
+It's a programming class, so feedback is pretty much instantaneous: your program runs or it doesn't. The class was really, really hard though, but we were allowed to experiment and explore. As long as the program compiled and ran, you could submit it and get credit.
 
-To succeed in college, students need to impose a structure on their own learning. My second run through college was much, much more fruitful than my first because I knew this going in (though not to the level I do now). I had to increase the rate of my feedback cycle. I had to start my homework early, question my approach to it, go to office hours to check if I was "on the right track," and interact with professors frequently. Grades were a very poor feedback mechanism because they were relatively infrequent and if they indicated a problem, we were already past the material they had been testing, and there was no time to go back and make up for lost time. There were at most 3 tests per semester. And while it makes sense not to give away too much help, I had professors who seemed to think being cagey and mysterious was the best way to answer questions.
+None of these classes were easy. I had weeks where I spent 15+ hours on homework for a single one of these classes. So what do all these have in common, and what does this have to do with Halo 2?
 
-I know I'm not just whining about a difficult educational track because I had three professors that were amazing, and in whose classes I learned and have retained a ton of useful information. Two of them moved slowly and provided weekly quizzes. The third provided 4 or 5 exams (which she called quizzes), and was actually helpful in office hours. Each professor taught a course at a different level: 2000, 3000, and 4000. They recognized that structured learning with lots of quick feedback was the best way to learn something.
+* Fast feedback. All the classes had it and Halo 2 (and most enjoyable video games) had it in spades. If you died, you were back in the fight in seconds, and if you messed up, you knew it immediately. Thus, you could change your approach when it would still matter.
+* Teaches you how to learn. All the best professors I had talked explicitly about specific ways to approach their subject. Halo 2 (and most enjoyable video games) give you some onramp to "the playing of the game." And yeah, sometimes you take advantage of broken AI or weird game logic.
+* Freedom to try. The best classes provided some options for open projects which had more than one right answer. I like games that allow you try things your own way, even if it gets you killed. Halo 2 does this a lot, and sometimes the unexpected works really well.
+* Focus on the user experience. All the best professors I had (even in upper division courses) focused on the students' experience of the material, not just presenting the material. A good game also focuses on the experience of play, not just showcasing the graphics or the story.
 
-I do think that imposing a structure on material is an important skill for any learner to master, especially a lifelong self-learner. In general, most experiences in life are not well-structured for learning. But college actively undermines your ability to learn.
+# Now, compare this to traditional education 
 
-And honestly, I think most professors know this. In my hardest classes (the ones with the worst feedback loops, professors who explicitly told students they were failures, classes that skipped large chunks of the curriculum because it was "too basic to waste time on," ignored or lacked a syllabus, and moved at a pace that suggested the entire curriculum was mere review), the grades did not reflect the performance of the students.
+The feedback loops are slow. In most of my college courses, HW feedback took a week, at which point we'd be on to the next topic which depended on an understanding of the previous material. Two, maybe three, quizzes/exams a semester was the norm.
 
-What I mean is that most students got grades much higher than their scores would justify. I got an A in a class where I scored 81%, 59%, and `UNDEFINED`% on my first, second, and final exams respectively. Unless I aced that final (highly unlikely, and even then), my guess is that the professor realized he simply couldn't fail the entire class.
+The consequences for failure are steep and permanent. Despite that, you are often allowed to progress, telling you that gaps are not important or don't exist.
 
+Trying a lot will still generally guarantee success, but trying is costly (and without fast feedback, you don't know if you're even trying the right thing). If you fail high school, there's stigma to overcome. College is expensive and very, very time-consuming. A second, or third, run is not trivial.
 
+Imagine if a game worked that way. It would be horrible. Nobody would play such a game. If you died enough times, the game would just lock you out and you'd have to actually buy it again.
 
-thats Halo teaches me that a good strategy is usually also a forgiving strategy. If our strategy relies on shooting perfectly every time or overwhelming an enemy, it's probably not going to work. It needs to account for the fact that we are much weaker than our enemies and run out of ammo. The strategies that work are almost always the ones that allow us to be imperfect.
+Obviously, this is a worst-case example. There are schools that provide well-structured pedagogy, but even those implement systems that allow students to move forward despite having failed to master previous material.
 
-That said, we've also gotten lucky occasionally and had a run of perfect headshots and sneak attacks.
+Consider Khan Academy, which I used to prepare for returning to college and loved. Feedback is instant: you know immediately when you get a problem right or wrong, and you are tested constantly, because every learning module is basically a mini-quiz. You can't move forward until you demonstrate mastery.
 
+# Successful students accelerate the feedback loop
+
+Many students who succeed at school spend a lot of time figuring out the game being played by the educational system, and a good school provides lots of quality feedback *to all its students*.
+
+But if a school isn't going to provide that information, the students have to figure it out. And that's where I think colleges and universities often fail. Students show up to university having succeeded (or not) in high school. Often not even knowing why.
+
+They are told that university will be harder, but not exactly *how* it will be harder. Students think the material is harder and the professors are more demanding. But I think the reality is very different: college is more like real life, in that feedback loops aren't built into the learning automatically.
+
+Thus, a student who goes to all office hours and help sessions is considered dedicated and hard-working, and that's the reason they succeed. This is a vague, subjective explanation, never mind the fact that it is literally not possible for every student to attend office hours. A better explanation highlights the benefit of office hours:
+
+**These students are accelerating the feedback loop.**
+
+Study groups are another way to accelerate the feedback loop, by comparing your answers to your classmates'. These don't provide "the answers" but the idea that a student should come to office hours looking to get a sense of the correctness of their approach is often frowned upon by professors. But the professors I learned the most from were those who simply gave me feedback, rather than giving cagey responses or challenging me for asking about the homework instead of engaging them in speculative discussion about the edges of their field.
+
+# This isn't taught.
+
+As someone who returned to college when he was 29 to pursue a degree in a completely different field, I have been interested in the *process* of learning for some time. I didn't find anything besides "study skills" in school. Outside of school, all the advice I found was of the "study skills" variety without context: use spaced repetition, use memory techniques, use diffuse vs. active learning, record your mistakes, self quiz.
+
+None of these (very useful) actions provide context or a target. What should I use spaced repetition on? The material my professors provide is not always what matters for understanding.
+
+The question I wanted (and still want) to answer is, "how do I take a body of (difficult) knowledge and structure it so that I can learn it?" Tallying the number of hours I dedicated to Halo 2, clearly there is a way to structure hard stuff that makes it compelling.
+
+Maybe it is, "just a game," but I think there is something valuable to be learned from the way games approach the problem of convincing their players to persist in attempting hard things.
