@@ -11,9 +11,6 @@ I'm Khaled (pronounced خالد). I like to solve hard problems, whether program
 - Archive: Old writings and ideas
 - Daybook: Scratch notes that aren't yet associated with a project
 
-{{< bootstrap-blockquote author="Dick Guindon" >}}
-Writing is nature's way of letting you know how sloppy your thinking is.
-{{< /bootstrap-blockquote >}}
 
 I used to write with the justification that sharing my stories, experiences, and opinions might be helpful to other people. In retrospect, that seems really presumptous. But writing and publishing my ideas did help me clarify them, so now that's why I write.
 

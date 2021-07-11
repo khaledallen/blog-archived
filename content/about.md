@@ -1,15 +1,5 @@
 # Reading List
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
-| Book    |  Author   | Completed | Rating | Summary |
-|---------|-----------|-----------|--------|---------|
-| The Art of Doing Science and Engineering    |  Richard Hamming   | Dec 2020 | 4.5 | |
-| Ready Player Two    |   Ernest Cline   | Dec 2020 | 4.0 ||
-| Circe               |   Madeline Miller | Feb 2021 | 4.0 ||
-| Axiom's End         |   Lindsey Ellis  | Feb 2021 | 4.8 ||
-| Why We Sleep        |   Matthew Walker, PhD | - | - ||
-{{< /bootstrap-table >}}
-
 # Problem-solving Process
 
 1. Spend some time with the problem 

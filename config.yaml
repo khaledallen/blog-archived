@@ -1,6 +1,7 @@
 baseURL: https://khaledallen.onrender.com
 languageCode: en-us
 title: Khaled Allen
+  #theme: ananke
 theme: vanilla-bootstrap-hugo-theme
 
 frontmatter:
