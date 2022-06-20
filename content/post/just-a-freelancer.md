@@ -1,7 +1,7 @@
 ---
 title: "Just a Freelancer"
 date: 2021-02-04T11:34:19-07:00
-draft: false
+draft: true
 ---
 
 I am in the process of prepraring for an interview at a "Big Tech Company,"
