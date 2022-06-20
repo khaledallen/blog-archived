@@ -4,7 +4,7 @@ date: 2021-02-04T11:34:19-07:00
 draft: true
 ---
 
-I'm in the process of prepraring for an interview at a "Big Tech Company,"
+I am in the process of prepraring for an interview at a "Big Tech Company,"
 and while I'm doing pretty well on the technical stuff, I find that
 I struggle a lot with the non-technical questions. Normally, I love
 talking about myself, but I find that I am really unsure of which examples

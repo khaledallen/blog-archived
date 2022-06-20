@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my website on Khaled Allen</title>
+    <link>https://khaledallen.onrender.com/</link>
+    <description>Recent content in Welcome to my website on Khaled Allen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 17:06:06 -0600</lastBuildDate><atom:link href="https://khaledallen.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I learned from my aviation accident</title>
+      <link>https://khaledallen.onrender.com/lessons-aviation-accident/</link>
+      <pubDate>Sun, 12 Sep 2021 17:06:06 -0600</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/lessons-aviation-accident/</guid>
+      <description>Last month, I completed my commercial pilot checkride and earned my certificate. Along the way, I matured as a pilot in ways that I did not expect. I thought that I would simply learn a few new maneuvers and become more precise, but what I actually learned was an entirely new way to think about flying, thanks to an accident that occurred.
+During a training flight, an instructor and I inadvertently starved the plane&amp;rsquo;s engine of fuel, resulting in an engine-out landing in a corn field that totaled the aircraft.</description>
+    </item>
+    
+    <item>
+      <title>Gated Mastery-Based Learning</title>
+      <link>https://khaledallen.onrender.com/gated-learning/</link>
+      <pubDate>Wed, 03 Mar 2021 21:43:55 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/gated-learning/</guid>
+      <description>Hollow Knight is one of my favorite games, even though it is also one of the most difficult I&amp;rsquo;ve ever played. But it is so well-designed that the difficulty doesn&amp;rsquo;t feel unfair. Your pause screen clearly indicates empty spaces for powers and upgrades you have yet to find.
+The most difficult areas and bosses are closed to you until you have the abilities you need to beat them. In some cases, you&amp;rsquo;re welcome to try a harder section or boss before you have all the power-ups, but there are no penalties for failing in these cases (not even losing a life).</description>
+    </item>
+    
+    <item>
+      <title>Mathdocs</title>
+      <link>https://khaledallen.onrender.com/project/mathdocs/</link>
+      <pubDate>Thu, 18 Feb 2021 15:42:54 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/mathdocs/</guid>
+      <description>Github
+Goals The goal of this project was:
+To build a tool for myself to support my educational objectives that I could use regularly To test out an idea I had about mathematics knowledge being structured like code, with inheritance and relationships, rather than a linear process of building towards a big proof or result To gain familiarity with Django (this was my first time working with Django) To expose myself to a CSS framework other than Bootstrap Overview This project is a Django app that allows me to document mathematics knowledge in a way similar to how I document code.</description>
+    </item>
+    
+    <item>
+      <title>Sunrise Lamp</title>
+      <link>https://khaledallen.onrender.com/project/sunrise-lamp/</link>
+      <pubDate>Tue, 16 Feb 2021 21:44:04 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/sunrise-lamp/</guid>
+      <description>Project Notebook Github, includes STL
+Final Demo Goal The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi Parsec Gaming Client</title>
+      <link>https://khaledallen.onrender.com/project/raspberry-pi-parsec/</link>
+      <pubDate>Fri, 12 Feb 2021 12:08:55 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/raspberry-pi-parsec/</guid>
+      <description>This is a project to use a Raspberry Pi to stream games from my CLX gaming PC to various locations in the house using Parsec.
+Software Getting the Raspberry Pi to act as a streaming solution wasn&amp;rsquo;t as simple as the instructions from Parsec indicated. The biggest issues we faced (I did this with my friend Sam Cipriani) were latency from attempting to stream a graphics intensive application into the Pi, and then output that onto a big, high resolution TV screen.</description>
+    </item>
+    
+    <item>
+      <title>Feedback and Difficulty in Video Games</title>
+      <link>https://khaledallen.onrender.com/persistence-in-video-games/</link>
+      <pubDate>Sat, 06 Feb 2021 10:46:49 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/persistence-in-video-games/</guid>
+      <description>I recently finished playing through Halo 2&amp;rsquo;s legendary co-op campaign, which, for those who are not masochistic gamers, is considered one of the most poorly balanced, excessively difficult games ever made. If you haven&amp;rsquo;t played, imagine being a delicate butterfly, made of crystal, trying to survive in a rock tumbler. With another butterfly. Who is tied to your wings, so when one of you dies, you both do. And the rocks are actually trying to hit you.</description>
+    </item>
+    
+    <item>
+      <title>Drink Table</title>
+      <link>https://khaledallen.onrender.com/project/drink-table/</link>
+      <pubDate>Thu, 04 Feb 2021 11:55:29 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/project/drink-table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Solving Process</title>
+      <link>https://khaledallen.onrender.com/problem-solving-process/</link>
+      <pubDate>Wed, 03 Feb 2021 10:36:29 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/problem-solving-process/</guid>
+      <description>I&amp;rsquo;ve been preparing for a coding interview recently, and as a result I have given a lot of thought to how I tend to solve problems.
+When I started back in to school, I didn&amp;rsquo;t have a great problem-solving process. I had always been &amp;ldquo;the smart kid&amp;rdquo; and didn&amp;rsquo;t need to do anything special that I was aware of in order to solve most of the problems I encountered. The only exception to that was some of the very difficult games I like to play.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Tutorial</title>
+      <link>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</link>
+      <pubDate>Tue, 02 Feb 2021 17:33:47 -0700</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</guid>
+      <description>Using this tutorial to learn Kubernetes concepts: https://www.youtube.com/watch?v=X48VuDVv0do. minikube needs to run in a virtual environment, so we need to specify the vm-driver, hypberkit in our case.
+minikube start --vm-driver=hyperkit
+Once minikube is set up, it spins up a VM and then you can use kubectl to query it. Minikube is a node, running virtually in your own computer.
+Basic Commands Usage creat a pod: kubectl create .... We don&amp;rsquo;t notmally work with pods directly.</description>
+    </item>
+    
+    <item>
+      <title>How I Avoided Becoming the Flavor-of-the-Month Intern</title>
+      <link>https://khaledallen.onrender.com/how-i-avoided-becoming-the-flavor-of-the-month-intern/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/how-i-avoided-becoming-the-flavor-of-the-month-intern/</guid>
+      <description>Last year, I had the amazing opportunity to intern at a NASA center. They were looking for someone with JavaScript experience to update a data collections tool that had been underutilized because it was not searchable and had a poor UI. The plan was to rebuild it with a shiny new graph-based database and to update the frontend to use React. Basically, modernize it and clean it up.
+All this was what my supervisors and their bosses wanted.</description>
+    </item>
+    
+    <item>
+      <title>Cats Are Evil</title>
+      <link>https://khaledallen.onrender.com/cats-are-evil/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/cats-are-evil/</guid>
+      <description>We have a new cat whose name is probably the most on-the-nose name a cat can have: Misjif. He&amp;rsquo;s so mischievious he even spelled mischief wrong.
+Take all the things that make cats cat-like&amp;ndash;climbs everything, yowls in the middle of the night, clever in all the wrong ways, velociraptor-like learning curve and love of mayhem&amp;ndash;and turn them up to CAT. That is Misjif. Also cute. He&amp;rsquo;s stinkin&amp;rsquo; adorable, which makes all of this worse: you can&amp;rsquo;t stay mad at him (though trust me I&amp;rsquo;m working really hard on that).</description>
+    </item>
+    
+    <item>
+      <title>Shortcuts In Moderation</title>
+      <link>https://khaledallen.onrender.com/shortcuts-in-moderation/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/shortcuts-in-moderation/</guid>
+      <description>When I started learning to bake bread, I used active dry yeast. It was easy and with the right recipe, I could get reasonably good results without all the complications of a sourdough starter. But I always aspired to make bread with the starter, and for a while, I believed that using a starter was the only real way to make bread. I also thought that once I moved to using a starter, I would never make bread the &amp;ldquo;easy way&amp;rdquo; again.</description>
+    </item>
+    
+    <item>
+      <title>On Silence</title>
+      <link>https://khaledallen.onrender.com/on-silence/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/on-silence/</guid>
+      <description>In 2013, I decided to stop writing regularly in my blog, which I had been posting to daily since 2009 when I graduated college. I had what should have felt like success with a reasonable audience, an ebook and launch, collaborations, guest posts, even some money from my writing.
+Then, in 2013 I stopped abruptly. I suddenly found the act of expressing my opinions offensive and exhausting, just a lot of ego-stroking.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://khaledallen.onrender.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/about/</guid>
+      <description>Reading List Problem-solving Process Spend some time with the problem &amp;ldquo;What would make this easy?&amp;rdquo; Make it like something familiar Make it concrete Test Look for shortcuts and refine What worked? Why? Can it be combined with something else or consolidated? What didn&amp;rsquo;t work? Why? Do I need that? Can we bypass the problem entirely? What should be changed to improve? Is that feasible? Repeat with a smaller version of the big cycle.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://khaledallen.onrender.com/code-portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://khaledallen.onrender.com/code-portfolio/</guid>
+      <description>Personal Projects IoT: Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. Project Page, Github. Gaming: Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. Project page. Software: Custom-built documentation/wiki for Abstract Algebra. Github. Software: Voice-controlled NLP personal assistant with custom-built command-line todo list. Github. Software: Online LaTeX scratchpad used by CU and FRCC students for quick math typesetting App, Github. Undergraduate Research Projects Software: EVA suit simulated telemetry-feed for NASA SUITS competition team.</description>
+    </item>
+    
+  </channel>
+</rss>

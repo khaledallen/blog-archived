@@ -1,0 +1,263 @@
+<!doctype html>
+
+<html lang="en" class="h-100">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="generator" content="Hugo 0.101.0" />
+  <link rel="stylesheet" href="https://khaledallen.onrender.com/css/bootstrap.min.css">
+  
+  
+  <title>Raspberry Pi Parsec Gaming Client | Khaled Allen</title>
+  <style>
+.container {
+  max-width: 700px;
+}
+#nav a {
+  font-weight: bold;
+  color: inherit;
+}
+#nav a.nav-link-active {
+  background-color: #212529;
+  color: #fff;
+}
+#nav-border {
+  border-bottom: 1px solid #212529;
+}
+#main {
+  margin-top: 1em;
+  margin-bottom: 4em;
+}
+#home-jumbotron {
+  background-color: inherit;
+}
+#footer .container {
+  padding: 1em 0;
+}
+#footer a {
+  color: inherit;
+  text-decoration: underline;
+}
+.font-125 {
+  font-size: 125%;
+}
+.tag-btn {
+  margin-bottom: 0.3em;
+}
+pre {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 16px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit; 
+  background-color: transparent;
+  border-radius: 0;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #c7254e;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
+img,
+iframe,
+embed,
+video,
+audio {
+  max-width: 100%;
+}
+.card-img,
+.card-img-top,
+.card-img-bottom {
+  width: initial;
+}
+</style>
+</head>
+  <body class="d-flex flex-column h-100">
+    <div id="nav-border" >
+  <nav id="nav" class="nav justify-content-center">
+  
+  
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/"><i data-feather="home"></i> Home</a>
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/post/"><i data-feather="edit"></i> Blog</a>
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/project/"><i data-feather="box"></i> Projects</a>
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/archive/"><i data-feather="archive"></i> Archive</a>
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/daybook/"><i data-feather="book"></i> Daybook</a>
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/about/"><i data-feather="smile"></i> About</a>
+  
+    
+    
+      
+      
+      
+      
+      
+        
+      
+    
+    
+    <a class="nav-link " href="/index.xml"><i data-feather="rss"></i> RSS</a>
+  
+  </nav>
+</div>
+
+    <div class="container">
+      <main id="main">
+        
+
+<h1>Raspberry Pi Parsec Gaming Client</h1>
+<p>This is a project to use a Raspberry Pi to stream games from my CLX gaming PC to various locations in the house using Parsec.</p>
+<h2 id="software">Software</h2>
+<p>Getting the Raspberry Pi to act as a streaming solution wasn&rsquo;t as simple as the instructions from Parsec indicated. The biggest issues we faced (I did this with my friend <a href="https://www.samcipriani.com">Sam Cipriani</a>) were latency from attempting to stream a graphics intensive application into the Pi, and then output that onto a big, high resolution TV screen.</p>
+<p>Essentially, here&rsquo;s the process:</p>
+<ol>
+<li>Install raspbian</li>
+<li>Set gpu mem to 208</li>
+<li>To use on a really large TV screen, set Pixel Doubling to <code>Enabled</code> in the Raspberry Pi Configuration &gt; Display settings.</li>
+<li>Add <code>“options bluetooth disable\_ertm=Y”</code> to <code>/etc/modprobe.d/bluetooth.conf</code> (I think this is just for pairing an XBox controller)</li>
+<li>Set mouse poll rate: add <code>usbhid.mousepoll=8</code>  to <code>/boot/cmdline.txt</code></li>
+<li>Install parsec
+<ol>
+<li>Update the encoder bitrate thing in the <code>.parsec/config.txt</code> file to 25.</li>
+</ol>
+</li>
+</ol>
+<p>I use a LAN hardline when I play, and that more or less eliminates all the problems with lag. I think an upgraded wifi antenna might help, but with the built-in wifi, the lag was too extreme to play effectively.</p>
+<p>I also play with a Nintendo Switch Pro Controller or a Playstation Dualshock controller, both of which pair very easily with the Pi (compare that to Sam&rsquo;s problems with the XBox S controller).</p>
+<h2 id="case">Case</h2>
+<p>Download the case STL files from <a href="https://www.thingiverse.com/thing:4763782">Thingiverse</a>.</p>
+<p>You can see the project notebook for the case <a href="https://www.notion.so/misjifmaker/Raspberry-Pi-Case-c2061a5751884465b7a7b3f52b67c407">here</a>.</p>
+<p>There have been several iterations of this case. The first iteration, I had trouble with the sizing and spacing of the USB ports in the RPi model I used in Fusion360. As a result, the actual Pi did not fit in the case when printed. I also didn&rsquo;t realize that I needed to slice the case in half as there isn&rsquo;t enough space for the ports to slide in otherwise. This resulted in several broken attempts.</p>
+<p>Once I figured out the spacing and the insertion method, I needed to sort out a way to secure the top to the bottom. The simplest solution I came up with was just to design some screw posts into the outside of the case, but the Pi 3B+ has various ports in locations that make it impossible to get a nice symmetric arrangement for this solution. Internal clips were definitely the ideal, but those were beyond my Fusion360 skills.</p>
+<p>Once I had a basically working design, I started over with a much better build process in Fusion360, keeping my components and bodies cleanly organized. I got a working version with external screw posts, and then dove into figuring out a way to do internal clips, which is the latest prototype (printing as I write this).</p>
+<p>Once the PLA prototype is checked, I will print in semi-transparent PETG, which will be more heat resistent, allow me to see the LEDs on the Pi, and which is a stronger material for lasting durability.</p>
+<p><img src="/images/Raspberry%20Pi%20Case%20e4e5ac6816cd4c49a6fbf56e1815b506/WIN_20210213_17_14_58_Pro.jpg" alt="Raspberry%20Pi%20Case%20e4e5ac6816cd4c49a6fbf56e1815b506/WIN_20210213_17_14_58_Pro.jpg"></p>
+<p><img src="/images/Raspberry%20Pi%20Case%20e4e5ac6816cd4c49a6fbf56e1815b506/WIN_20210213_17_15_18_Pro.jpg" alt="Raspberry%20Pi%20Case%20e4e5ac6816cd4c49a6fbf56e1815b506/WIN_20210213_17_15_18_Pro.jpg"></p>
+
+
+
+      </main>
+    </div>
+    
+<footer id="footer" class="mt-auto text-center text-muted">
+  <div class="container">
+    Made with <a href="https://gohugo.io/">Hugo</a> &amp; <a href="https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme">Vanilla</a>
+  </div>
+</footer>
+
+    <script src="https://khaledallen.onrender.com/js/feather.min.js"></script>
+<script>
+  feather.replace()
+</script>
+
+
+    
+
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+  integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq"
+  crossorigin="anonymous"
+/>
+
+
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
+  integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
+  crossorigin="anonymous"
+></script>
+
+
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+  integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
+  crossorigin="anonymous"
+  onload="renderMathInElement(document.body);"
+></script>
+
+
+    
+  
+
+  </body>
+</html>
