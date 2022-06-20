@@ -34,8 +34,8 @@ The most difficult areas and bosses are closed to you until you have the abiliti
       
       <guid>https://khaledallen.onrender.com/project/mathdocs/</guid>
       <description>Github
-Goals The goal of this project was:
-To build a tool for myself to support my educational objectives that I could use regularly To test out an idea I had about mathematics knowledge being structured like code, with inheritance and relationships, rather than a linear process of building towards a big proof or result To gain familiarity with Django (this was my first time working with Django) To expose myself to a CSS framework other than Bootstrap Overview This project is a Django app that allows me to document mathematics knowledge in a way similar to how I document code.</description>
+  Goals The goal of this project was:
+ To build a tool for myself to support my educational objectives that I could use regularly To test out an idea I had about mathematics knowledge being structured like code, with inheritance and relationships, rather than a linear process of building towards a big proof or result To gain familiarity with Django (this was my first time working with Django) To expose myself to a CSS framework other than Bootstrap  Overview This project is a Django app that allows me to document mathematics knowledge in a way similar to how I document code.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ To build a tool for myself to support my educational objectives that I could use
       
       <guid>https://khaledallen.onrender.com/project/sunrise-lamp/</guid>
       <description>Project Notebook Github, includes STL
-Final Demo Goal The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</description>
+Final Demo  Goal The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</description>
     </item>
     
     <item>
@@ -115,7 +115,7 @@ All this was what my supervisors and their bosses wanted.</description>
       
       <guid>https://khaledallen.onrender.com/cats-are-evil/</guid>
       <description>We have a new cat whose name is probably the most on-the-nose name a cat can have: Misjif. He&amp;rsquo;s so mischievious he even spelled mischief wrong.
-Take all the things that make cats cat-like&amp;ndash;climbs everything, yowls in the middle of the night, clever in all the wrong ways, velociraptor-like learning curve and love of mayhem&amp;ndash;and turn them up to CAT. That is Misjif. Also cute. He&amp;rsquo;s stinkin&amp;rsquo; adorable, which makes all of this worse: you can&amp;rsquo;t stay mad at him (though trust me I&amp;rsquo;m working really hard on that).</description>
+Take all the things that make cats cat-like&amp;ndash;climbs everything, yowls in the middle of the night, clever in all the wrong ways, velociraptor-like learning curve and love of mayhem&amp;ndash;and turn them up to CAT. That is Misjif. Also cute. He&amp;rsquo;s stinkin&#39; adorable, which makes all of this worse: you can&amp;rsquo;t stay mad at him (though trust me I&amp;rsquo;m working really hard on that).</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ Then, in 2013 I stopped abruptly. I suddenly found the act of expressing my opin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khaledallen.onrender.com/about/</guid>
-      <description>Reading List Problem-solving Process Spend some time with the problem &amp;ldquo;What would make this easy?&amp;rdquo; Make it like something familiar Make it concrete Test Look for shortcuts and refine What worked? Why? Can it be combined with something else or consolidated? What didn&amp;rsquo;t work? Why? Do I need that? Can we bypass the problem entirely? What should be changed to improve? Is that feasible? Repeat with a smaller version of the big cycle.</description>
+      <description>Reading List Problem-solving Process  Spend some time with the problem &amp;ldquo;What would make this easy?&amp;rdquo; Make it like something familiar Make it concrete Test Look for shortcuts and refine  What worked? Why? Can it be combined with something else or consolidated? What didn&amp;rsquo;t work? Why? Do I need that? Can we bypass the problem entirely? What should be changed to improve? Is that feasible? Repeat with a smaller version of the big cycle.</description>
     </item>
     
     <item>
@@ -152,7 +152,7 @@ Then, in 2013 I stopped abruptly. I suddenly found the act of expressing my opin
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://khaledallen.onrender.com/code-portfolio/</guid>
-      <description>Personal Projects IoT: Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. Project Page, Github. Gaming: Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. Project page. Software: Custom-built documentation/wiki for Abstract Algebra. Github. Software: Voice-controlled NLP personal assistant with custom-built command-line todo list. Github. Software: Online LaTeX scratchpad used by CU and FRCC students for quick math typesetting App, Github. Undergraduate Research Projects Software: EVA suit simulated telemetry-feed for NASA SUITS competition team.</description>
+      <description>Personal Projects  IoT: Sunrise simulation lamp with Arduino, Neopixel, and 3D printed enclosure. Project Page, Github. Gaming: Stream and play games from powerful gaming PC to customized Raspberry Pi with custom 3D printed case. Project page. Software: Custom-built documentation/wiki for Abstract Algebra. Github. Software: Voice-controlled NLP personal assistant with custom-built command-line todo list. Github. Software: Online LaTeX scratchpad used by CU and FRCC students for quick math typesetting App, Github.</description>
     </item>
     
   </channel>

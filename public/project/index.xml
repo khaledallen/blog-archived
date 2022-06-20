@@ -14,8 +14,8 @@
       
       <guid>https://khaledallen.onrender.com/project/mathdocs/</guid>
       <description>Github
-Goals The goal of this project was:
-To build a tool for myself to support my educational objectives that I could use regularly To test out an idea I had about mathematics knowledge being structured like code, with inheritance and relationships, rather than a linear process of building towards a big proof or result To gain familiarity with Django (this was my first time working with Django) To expose myself to a CSS framework other than Bootstrap Overview This project is a Django app that allows me to document mathematics knowledge in a way similar to how I document code.</description>
+  Goals The goal of this project was:
+ To build a tool for myself to support my educational objectives that I could use regularly To test out an idea I had about mathematics knowledge being structured like code, with inheritance and relationships, rather than a linear process of building towards a big proof or result To gain familiarity with Django (this was my first time working with Django) To expose myself to a CSS framework other than Bootstrap  Overview This project is a Django app that allows me to document mathematics knowledge in a way similar to how I document code.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ To build a tool for myself to support my educational objectives that I could use
       
       <guid>https://khaledallen.onrender.com/project/sunrise-lamp/</guid>
       <description>Project Notebook Github, includes STL
-Final Demo Goal The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</description>
+Final Demo  Goal The goal of this project was to build a sunrise simulation lamp using an Arduino and a Neopixel ring. This is essentially a proof of concept, since I would probably want to use a much bigger Neopixel ring for a real lamp. This one also has a real-time clock board (RTC) that enables the device to keep time even when the Arduino is not drawing power.</description>
     </item>
     
     <item>

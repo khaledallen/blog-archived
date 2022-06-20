@@ -4,7 +4,7 @@
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="generator" content="Hugo 0.101.0" />
+  <meta name="generator" content="Hugo 0.80.0" />
   <link rel="stylesheet" href="https://khaledallen.onrender.com/css/bootstrap.min.css">
   
   
@@ -188,8 +188,8 @@ audio {
 <p><code>minikube start --vm-driver=hyperkit</code></p>
 <p>Once minikube is set up, it spins up a VM and then you can use <code>kubectl</code> to query it. Minikube is a node, running virtually in your own computer.</p>
 <h2 id="basic-commands-usage">Basic Commands Usage</h2>
-<p>creat a pod: <code>kubectl create ...</code>. 
-We don&rsquo;t notmally work with pods directly. We work with deployments. So we use 
+<p>creat a pod: <code>kubectl create ...</code>.
+We don&rsquo;t notmally work with pods directly. We work with deployments. So we use
 <code>kubectl create deploymend NAME --image=image</code>. The image needs to be specified since the pod needs to be created using some image</p>
 <p>The deployment contains the blueprint for the pods. So it tells Kub what to create in the pod</p>
 <p><code>kubectl get replicaset</code> shows us the status of the pods replicas</p>
@@ -227,7 +227,7 @@ Kubernetes compares the status with the specs to make sure everything is where i
 <p>normally stored with the code.</p>
 <p>labels must match <code>app</code> so that the service can know which pods it is managing</p>
 <h1 id="example">Example</h1>
-<p>internal service 
+<p>internal service
 configMap with DB url
 secret with DB user and DB pwd</p>
 <p>mongo-express will be available via an external service</p>
