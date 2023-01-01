@@ -1,104 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://khaledallen.onrender.com/post/</loc>
     <lastmod>2021-09-12T17:06:06-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/</loc>
     <lastmod>2021-09-12T17:06:06-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/lessons-aviation-accident/</loc>
     <lastmod>2021-09-12T17:06:06-06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/gated-learning/</loc>
     <lastmod>2021-03-03T21:43:55-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/project/mathdocs/</loc>
     <lastmod>2021-02-18T15:42:54-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/project/</loc>
     <lastmod>2021-02-18T15:42:54-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/project/sunrise-lamp/</loc>
     <lastmod>2021-02-16T21:44:04-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/project/raspberry-pi-parsec/</loc>
     <lastmod>2021-02-12T12:08:55-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/persistence-in-video-games/</loc>
     <lastmod>2021-02-06T10:46:49-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/project/drink-table/</loc>
     <lastmod>2021-02-04T11:55:29-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/problem-solving-process/</loc>
     <lastmod>2021-02-03T10:36:29-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/daybook/</loc>
     <lastmod>2021-02-02T17:33:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/daybook/kubernetes-tutorial/</loc>
     <lastmod>2021-02-02T17:33:47-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/how-i-avoided-becoming-the-flavor-of-the-month-intern/</loc>
     <lastmod>2020-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/cats-are-evil/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/shortcuts-in-moderation/</loc>
     <lastmod>2020-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/on-silence/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/about/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/code-portfolio/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://khaledallen.onrender.com/tags/</loc>
   </url>
-  
 </urlset>
